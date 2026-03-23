@@ -1,0 +1,32 @@
+# LOG DE TRABAJO - Mis Proyectos Web
+
+## [Sesión 1 - 20/02/2026]
+- Inicio de la Práctica 1: Definición de la estructura básica en HTML5.
+- Enfoque: Se ha diseñado con una estructura de portfolio personal para organizar futuros trabajos.
+
+## [Sesión 2 - 27/02/2026]
+- Estilos globales: Creación del archivo CSS inicial.
+- Navegación: Implementación de una `navbar` con posición fija (`position: fixed`) y efecto de fondo desenfocado (*backdrop-filter*).
+- Personalización: Inserción de imágenes en la barra de navegación.
+
+## [Sesión 3 - 06/03/2026]
+- Nuevo Proyecto: Inicio del desarrollo de `retrat_web`.
+- Prototipado: Uso de CodePen para experimentar con elementos de diseño antes de implementarlos en el proyecto definitivo.
+- Layout: Definición de la estructura HTML5 y aplicación de un fondo con degradado (gradient).
+
+## [Sesión 4 - 13/03/2026]
+- Maquetación detallada: Desarrollo de estilos CSS para las estructuras HTML5 creadas anteriormente.
+- Anatomía Web: Se han añadido etiquetas específicas para representar partes del rostro: `cap`, `ulls`, `nas`, `boca`, `barbeta`, `orelles`.
+- Pendiente: Implementación del cuello y simulación de torso/hombros.
+
+## [Sesión 5 - 20/03/2026]
+- Ajustes estéticos: Refinamiento de la paleta de colores.
+- Detalles: Finalización de los elementos del cabello (`flecs`) en HTML5.
+- Optimización: Revisión de elementos faciales para mejorar la simetría.
+
+## [Sesión 6 - 23/03/2026]
+- Finalización de estructuras: Se han completado todas las partes restantes de HTML y CSS.
+- Fondos dinámicos: Implementación de un fondo animado mediante CSS (inspirado en un modelo de CodePen).
+- Interactividad: Creación de una lógica en JavaScript/JSON (con asistencia de IA) para lograr que los ojos sigan el movimiento del cursor.
+- Ajustes finales: Corrección de la alineación de los ojos y balance de alturas.
+- Estado: Proyecto finalizado y listo para su despliegue en GitHub.
